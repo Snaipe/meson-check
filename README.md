@@ -14,6 +14,12 @@ all of that boilerplate up into convenient functions.
 For the moment, the module is very C-centric, with existing (but limited) C++ support.
 Patches are welcome.
 
+## Install
+
+```
+pip install meson-check
+```
+
 ## Usage
 
 ```meson
